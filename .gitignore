@@ -1,0 +1,9 @@
+**/node_modules
+out.md
+.work
+.DS_Store
+node_modules
+*.log
+*.tar.gz
+*.tgz
+
